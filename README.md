@@ -15,3 +15,6 @@ significantly more prominent size to accomplish a sharp cut-off.
 
 ### Keywords:
 #### Microstrip low pass filter, stepped impedance, Richards transforms
+
+Note: This is an abstract from the attached file for Distributed Circuits - Stepped Impedance Low Pass Filter
+
